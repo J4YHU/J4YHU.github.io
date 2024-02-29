@@ -19,3 +19,6 @@ https://www.w3schools.com/cssref/pr_text_text-align.php - centering text
 https://www.w3schools.com/howto/howto_css_arrows.asp - adding the arrow
 
 https://www.w3schools.com/css/css_positioning.asp - positioning the arrow
+
+https://www.w3schools.com/css/css3_animations.asp - image animation
+
