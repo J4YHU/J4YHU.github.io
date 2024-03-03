@@ -22,3 +22,7 @@ https://www.w3schools.com/css/css_positioning.asp - positioning the arrow
 
 https://www.w3schools.com/css/css3_animations.asp - image animation
 
+https://www.w3schools.com/cssref/pr_margin-top.php - moving the text up
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/z-index - having texts behind an image
+

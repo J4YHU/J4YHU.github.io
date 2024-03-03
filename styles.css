@@ -47,9 +47,10 @@ html{
 }
 
 .guitar1 {
-  width:25%;
-  height:25%;
-  border-radius: 50%;
+  width: 30%;
+  height: 30%;
+  border-radius: 5%;
+  z-index: 2;
   
 }
 
@@ -57,9 +58,25 @@ html{
   transition: transform 2s ease;
 }
 
-.guitar1:hover.moving-image1 {
+.moving:hover.moving-image1 {
   transform: translateX(-110%); 
 }
+
+.text-behind {
+  text-align: center;
+  margin-top: -200px;
+  z-index: 1;
+  padding-bottom: 300px;
+}
+
+.image2 {
+  width: 30%;
+  height: 30%;
+  border-radius: 5%;
+  z-index: 2;
+  
+}
+
 
 
   
